@@ -30,7 +30,7 @@ class A:
     self.b = b
 ```
 ### Links
-My favorite news site is [Left b](http://lb.ua)
+My favorite news site is [Left bank](http://lb.ua)
 
 <https://www.jetbrains.com/>
 
