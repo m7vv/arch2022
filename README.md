@@ -1,4 +1,4 @@
-# arch2022
+# arch2022-2023
 For educational purpose LSTNU
 ## Content
 Here will be homework
@@ -37,6 +37,11 @@ My favorite news site is [Left bank](http://lb.ua)
 ## Photo of Dog
 ![dog is good](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZyZG9nX2dlcm1hbl9zaGVwaGVyZF9hbmltYWxzXzQtaW1hZ2Uta3liZHV0aHkuanBn.jpg)
 
+
+```python
+def call(name, phone='333355555'):
+    print(name, phone)
+```
 
 
 
