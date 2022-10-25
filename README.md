@@ -1,4 +1,5 @@
-## arch 2022-2023
+# *arch 2022-2023*
+
 For educational purpose LSTNU
 ## Content
 Here will be homework
